@@ -1,0 +1,28 @@
+{
+  "rules": {
+    "color-hex-case": "lower",
+    "color-hex-length": "short",
+    "color-no-invalid-hex": true,
+    "font-family-name-quotes": "always-where-recommended",
+    "function-calc-no-unspaced-operator": true,
+    "function-comma-newline-after": "never-multi-line",
+    "function-comma-space-after": "always",
+    "function-max-empty-lines": 0,
+    "function-url-quotes": "never",
+    "function-whitespace-after": "always",
+    "declaration-bang-space-after": "never",
+    "declaration-block-no-duplicate-properties": true,
+    "declaration-block-no-ignored-properties": true,
+    "declaration-block-no-shorthand-property-overrides": true,
+    "declaration-block-single-line-max-declarations": 1,
+    "indentation": 2,
+    "max-empty-lines": 2,
+    "no-duplicate-selectors": true,
+    "no-extra-semicolons": true,
+    "comment-whitespace-inside": "always",
+    "media-query-parentheses-space-inside": "never",
+    "media-feature-colon-space-after": "always",
+    "selector-list-comma-newline-after": "never-multi-line",
+    "selector-pseudo-class-case": "lower"
+  }
+}
