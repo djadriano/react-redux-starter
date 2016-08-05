@@ -8,6 +8,10 @@
 </ul>
 <h2>How to use:</h2>
 <pre><code>npm install</code></pre>
+<h2>Run the project:</h2>
+<pre><code>npm start</code></pre>
+<h2>Build the project:</h2>
+<pre><code>npm run build</code></pre>
 <h2>What you need?</h2>
 <ul>
   <li>Node.js 5.0 or more</li>
